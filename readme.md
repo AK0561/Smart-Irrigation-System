@@ -19,6 +19,10 @@ An automated plant watering system powered by Raspberry Pi. Monitors soil moistu
 - PVC tube
 - User-friendly interface
 
+## Circuit & Schematic Diagram 
+![Circuit Diagram](https://github.com/Huloiarnata/Smart-Irrigation-System/assets/97022114/aa7f589b-5da5-465b-bf81-e38f47a6a9d5)
+<img width="479" alt="SCHEMATIC DIAGRAM MINI PROJECT " src="https://github.com/Huloiarnata/Smart-Irrigation-System/assets/97022114/57e34388-ce8f-4987-ad27-0ad64de2e4a2">
+
 ## Usage
 1. Set up your Raspberry Pi and connect the components.
 2. Customize moisture thresholds and watering settings.
